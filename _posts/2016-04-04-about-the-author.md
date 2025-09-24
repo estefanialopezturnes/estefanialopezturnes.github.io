@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: facts
+title: "A Coruña"
+author: "Estefanía López Turnes"
+categories: roots
 tags: [sample]
 image: cuba-2.jpg
 ---
