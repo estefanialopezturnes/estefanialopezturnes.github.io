@@ -1,0 +1,5 @@
+To create a Codespace in the cloud of Github, the first time in the terminal it is need to execute: 
+bundle install
+After this step is concluded, it is needed to execute the following:
+bundle exec jekyll serve --host 0.0.0.0
+When done, port 4000 will be available and a cloud copy of the website will be available, useful por instant and non published previews of the real website.
