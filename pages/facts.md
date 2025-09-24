@@ -2,5 +2,5 @@
 layout: category
 title: Roots
 category: roots
-permalink: /roots
+permalink: /facts
 ---
