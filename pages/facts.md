@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Roots
-category: roots
+category: facts
 permalink: /facts
 ---
