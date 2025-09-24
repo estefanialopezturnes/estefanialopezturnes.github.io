@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Estefanía's Blog"
-description:	       "A personal webpage for pseudoprofessional topics"
+title:		           "Estefanía's Web"
+description:	       "A personal webpage for pseudo-personal topics"
 author:              "Estefanía López Turnes"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
