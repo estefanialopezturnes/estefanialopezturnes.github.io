@@ -8,10 +8,9 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Roots',  url: 'roots'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
+- {name: 'Projects', url: 'projects'}
+- {name: 'Arts & Words',       url: 'artsandwords'}
+- {name: 'Thoughts',      url: 'thoughts'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

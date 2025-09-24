@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Estefanía's Web"
+title:		           "Estefanía's Blog"
 description:	       "A personal webpage for pseudo-personal topics"
 author:              "Estefanía López Turnes"
 
